@@ -1,1 +1,322 @@
 # 2xdark
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>www.2xDark.com</title>
+
+</head>
+
+<body>
+
+	<h1><p style="text-align: center;"><span style="color: red;">&nbsp;<b>Naruto</b></span></p></h1>
+
+    <table><p style="text-align: center;"><b>Web By Subeesh</b></table>
+
+
+
+    	<!--(c) Code-X-Mania-->
+
+
+
+<html lang="en">
+
+
+
+<head>
+
+
+
+    <meta charset="UTF-8"></meta>
+
+
+
+    <meta content="https://i.ibb.co/M8S0Zzj/live-streaming.png" itemprop="thumbnailUrl" property="og:image"></meta>
+
+
+
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"></meta>
+
+
+
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
+
+
+
+    <title>ep2link_by_subeesh.mp4</title>
+
+
+
+    <link href="https://drive----google.com/uc?export=view&amp;id=1pVLG4gZy7jdow3sO-wFS06aP_A9QX0O6" rel="stylesheet" type="text/css"></link>
+
+
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"></link>
+
+
+
+    <link href="https://fonts.googleapis.com/css?family=Delius" rel="stylesheet"></link>
+
+
+
+    <link href="https://cdn.plyr.io/3.6.9/plyr.css" rel="stylesheet"></link>
+
+
+
+    
+
+
+
+        									 
+
+
+
+<style>
+
+
+
+      marquee{
+
+
+
+      font-size: 30px;
+
+
+
+      font-weight: 800;
+
+
+
+      color: Blue;
+
+
+
+      font-family: sans-serif;
+
+
+
+      }
+
+
+
+    </style>
+
+
+
+    <style>
+
+
+
+      marquee{
+
+
+
+      font-size: 30px;
+
+
+
+      font-weight: 800;
+
+
+
+      color: Blue;
+
+
+
+      font-family: sans-serif;
+
+
+
+      }
+
+
+
+    </style>
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+	    <header>
+
+
+
+        <marquee bgcolor="#f7f305" class="toogle" div=""></marquee></header></body></html>
+
+
+
+        <div id="file-name" style="text-align: left;"><span style="font-family: times;"><b>Play..Naruto</b></span></div>
+
+
+
+    
+
+
+
+    <div class="container">
+
+
+
+        <b><span style="font-family: times;"><video class="player" src="https://drive.google.com/u/3/uc?id=15mv532RGlL-nhwSUowccls1Ov2Szfme9&amp;export=download"></video>
+
+
+
+    </span></b></div>
+
+
+
+    
+
+
+
+   <footer>
+
+
+
+	   
+
+
+
+	   <center><h2><br /></h2></center>
+
+
+
+    </footer>
+
+
+
+    
+
+
+
+    
+
+
+
+    <script src="https://cdn.plyr.io/3.5.6/plyr.js"></script>
+
+
+
+	<script>
+
+
+
+        const controls = [
+
+
+
+              'play-large',
+
+
+
+              'rewind',
+
+
+
+              'play', 
+
+
+
+              'fast-forward', 
+
+
+
+              'progress', 
+
+
+
+              'current-time',
+
+
+
+              'duration',
+
+
+
+              'captions',
+
+
+
+              'settings',
+
+
+
+              'pip',
+
+
+
+              'airplay',
+
+
+
+              'download',
+
+
+
+              'fullscreen'
+
+
+
+            ];
+
+
+
+        document.addEventListener('DOMContentLoaded', () => {
+
+
+
+            const player = Plyr.setup('.player', { controls });
+
+
+
+        });
+
+
+
+        const body = document.querySelector('body');
+
+
+
+        const footer = document.querySelector('footer');
+
+
+
+        const toogle = document.querySelector('.toogle');
+
+
+
+        toogle.onclick = () => {
+
+
+
+            body.classList.toggle('dark')
+
+
+
+            footer.classList.toggle('dark')
+
+
+
+        }
+
+
+
+    </script>
+
+
+
+<div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both;"><div class="separator" style="clear: both;"><br /></div></div></div>
+
+
+
+</body>
+
+</html>
